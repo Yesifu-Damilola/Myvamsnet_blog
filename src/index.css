@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .containers {
+    @apply max-w-[1218px];
+  }
+}
