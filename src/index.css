@@ -7,3 +7,6 @@
     @apply max-w-[1218px];
   }
 }
+body {
+  font-family: "Inter", sans-serif;
+}
