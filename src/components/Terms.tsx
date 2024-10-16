@@ -89,14 +89,15 @@ export const Terms = () => {
             5. Prohibited Activities
           </h3>
           <div className="">
-            <p className="font-normal md:text-2xl lg:text-2xl text-base leading-[34px] lg:leading-9 text-dark-gray">
+            <p className="font-normal md:text-2xl lg:text-2xl text-base leading-[34px] lg:leading-9 text-dark-gray ">
               5.1. You agree not to engage in any of the following prohibited
-              activities while using using our website, products and services: 
-              - Violating any applicable laws or regulations.  - Interfering
-              with the security or integrity of using our website, products and
-              services.  - Uploading or distributing malicious code/content. 
-              - Collecting or harvesting any information from the Website
-              without our consent.
+              activities while using using our website, products and services:{" "}
+              <br />
+              - Violating any applicable laws or regulations. <br /> -
+              Interfering with the security or integrity of using our website,
+              products and services. <br /> - Uploading or distributing
+              malicious code/content. <br /> - Collecting or harvesting any
+              information from the Website without our consent.
             </p>
           </div>
         </div>
