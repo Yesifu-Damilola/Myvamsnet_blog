@@ -7,11 +7,14 @@ export default {
         heading_lg: "3rem",
         heading_md: "2rem",
       },
+      fontfamily: {
+        inter: ["Inter", "sans-serif"],
+      },
       colors: {
         "primary-color-1": "#FFA500",
         "primary-color-2": "#007FFF",
         "red-color": "#FF4500",
-        black: "#1A1B1D",
+        "black": "#1A1B1D",
         "plate-black": "#19222B",
 
         "light-black": "#3D434F",
